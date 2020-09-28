@@ -12,4 +12,4 @@ let secondInitial = lastName[0];
 console.log("Welcome to Code Immersives. " + firstName + " " + lastName);
 console.log("This line capitalized your name: " + firstName.toUpperCase() + " " + lastName.toUpperCase());
 console.log("This line prints out your initial: " + firstInitial + "." + secondInitial + ".");
-console.log("This line gives you Code immersives email: " + firstName.toLowerCase() + lastName.toLowerCase() + "@codeimmersives.com")
+console.log("This line gives you Code immersives email: " + firstName.toLowerCase() + '.' + lastName.toLowerCase() + "@codeimmersives.com")
